@@ -1,0 +1,8 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x3d42f2024Fa2220C1531dbd80E4fE79BEfB42bcA'
+  - '0xDdF64C294F4504986b91cd9F2a3Bf752bEE536a3'
+quorum: 1
+"source":git://github.com/AndreasMadsen/flower.git
